@@ -46,6 +46,12 @@ This YouMind Skill transforms your ideas, philosophical concepts, or industry ob
 
 The full skill instructions are in [`SKILL.md`](SKILL.md).
 
+## 🎬 Examples
+
+| AI的Fomo | AGI的定义 |
+|:---:|:---:|
+| ![AI FOMO Comic](examples/ai-fomo-comic.jpg) | ![AGI Definition Comic](examples/agi-definition-comic.jpg) |
+
 ## 🔧 Customization
 
 After generation, you can:
